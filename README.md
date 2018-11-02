@@ -1,8 +1,8 @@
 # PRINT_Y_PRINTLN_MOD
 Libreria con versiones especiales de print y println del objeto Serial del nucleo Arduino. 
 
-# Modo de uso\n
-despues de añadir la libreria al codigo usuario, es posible hacer la siguiente llamda:
+# Modo de uso
+despues de añadir la libreria al codigo usuario, es posible hacer la siguiente llamda:<br>
   printlnmod("1","2","3");
 
 esto generara tres instrucciones Serial.print, siendl la ultima de ellas un println, dando como resultado lo siguiente
